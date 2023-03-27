@@ -1,2 +1,2 @@
 # MyFirtsProject
-This is my first project, pls be patients
+This is my first project, pls be patient
